@@ -1,1 +1,9 @@
-
+1. VariaveisEConstantes.js = Coméntarios + O básico de Var, Let e Const;
+2. TipagemFraca.js
+3. Numeros.js = Tipos em JavaScript: Number
+4. NumerosAlgunsCuidados.js = Number: Numeros Alguns Cuidados
+5. math.js = Usando Math 
+6. string.js = Tipos em JavaScript: String 
+7. booleans.js = Tipos em JavaScript: Booeleans 
+8. array.js = Tipos em JavaScript: Array 
+9. objeto.js = Tipos em JavaScript: Object 
